@@ -1,7 +1,7 @@
 # NemoTrainer
 
 Thank you for your interest in NemoTrainer!
-Please feel free to reach out to kanwalj@georgetown.edu with any questions.
+Please feel free to reach out to kanwalj@georgetown.edu or bjs99@georgetown.edu with any questions.
 
 There are two ways to run NemoTrainer:
 1. Using JAVA (which enables the use of a graphical user interface (GUI))
