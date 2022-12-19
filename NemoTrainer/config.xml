@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <armMovementDegrees>90</armMovementDegrees>
+    <debutExeLocation>C:\Program Files (x86)\NCH Software\Debut\debut.exe</debutExeLocation>
+    <enhancedFeederMovementDegrees>4</enhancedFeederMovementDegrees>
+    <enhancedFeederMovementRepete>6</enhancedFeederMovementRepete>
+    <feederMovementDegrees>360</feederMovementDegrees>
+    <led1Pin>5</led1Pin>
+    <led2Pin>4</led2Pin>
+    <led3Pin>3</led3Pin>
+    <serialPort>COM3</serialPort>
+    <soundsFolder>C:\Users\Batlab\Downloads</soundsFolder>
+    <videosFolder>C:\Users\Batlab\Dropbox</videosFolder>
+</configuration>
