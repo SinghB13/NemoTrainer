@@ -8,7 +8,7 @@ There are two ways to run NemoTrainer:
 2. Using an Arduino script
 
 Method 1 (using JAVA):
-Download Ardulink (from this GitHub)
+Download Ardulink (from this GitHub).
 Upload the Ardulink script to the Arduino. It's called Ardulink4Zebrafish.ino.
 Launch the zebrafish.bat file. This will launch the GUI.
 Configure the parameters of your experiment and run it.
